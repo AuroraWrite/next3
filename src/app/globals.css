@@ -47,6 +47,10 @@
   .container{
     @apply w-[1140px] mx-auto;
   }
+
+  .container2{
+    @apply w-[500px] mx-auto;
+  }
 }
 
 :root {

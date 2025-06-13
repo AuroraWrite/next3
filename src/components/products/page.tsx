@@ -33,6 +33,7 @@ export default function Products({ data }: { data: Product[] }) {
               width={300}
               height={300}
               priority
+              sizes="300px"
               style={{ width: '100%', height: 'auto' }}
             />
             <div className="flex items-center justify-between mt-4">
